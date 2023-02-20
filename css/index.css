@@ -652,6 +652,12 @@
     letter-spacing: 0.1px;
     color: #ffffff;
 }
+@media (max-width: 992px) {
+    .footer-content>div {
+       
+        padding-top: 53px;
+    }
+}
 
 .icon-footer>img:not(:last-child) {
     margin-right: 20px;
